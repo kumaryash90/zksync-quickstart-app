@@ -1,0 +1,50 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/Users/yash/thirdweb/explore-zk/zksync/contracts/Greeter.sol": {
+      "lastModificationDate": 1667651651182,
+      "contentHash": "50dc274033bbebf641452b3939f75dea",
+      "sourceName": "contracts/Greeter.sol",
+      "solcConfig": {
+        "version": "0.8.16",
+        "settings": {
+          "optimizer": {
+            "enabled": true
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        },
+        "zksolc": {
+          "version": "1.2.0",
+          "compilerSource": "binary",
+          "settings": {
+            "compilerPath": "",
+            "experimental": {},
+            "optimizer": {
+              "enabled": true
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "Greeter"
+      ]
+    }
+  }
+}
